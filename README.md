@@ -16,6 +16,6 @@
 ![Paused](https://github.com/julianb393/Space_Travel/blob/master/screenshots/pause.png)
 
 ### Game Over Screen
-  - Upon colliding with a wall, the game ends and the player will have the option to either play again or return to the main menu.<br />
+  - Upon colliding with a wall, the game ends and the player will have the option to either play again or return to the menu.<br />
   - The player's highscore is recorded and updated whenever they beat their highscore.
 ![Game Over](https://github.com/julianb393/Space_Travel/blob/master/screenshots/gameover.png)
